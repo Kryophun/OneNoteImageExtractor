@@ -1,0 +1,2 @@
+Sections in the Cards section group:
+https://graph.microsoft.com/v1.0/users/aaron@hilbert.net/onenote/sectionGroups/0-FE8533E0E9A914D5!1091754/sections
